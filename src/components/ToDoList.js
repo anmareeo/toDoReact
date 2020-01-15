@@ -51,6 +51,7 @@ export default function ToDoList() {
     <div className = 'Container'>
     <div className = 'List'>
     <h1> To-Do List </h1>
+    
     <Input loadPage={loadPage}></Input>
     <List component = "nav"
     className = {

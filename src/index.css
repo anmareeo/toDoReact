@@ -8,6 +8,7 @@ body {
   text-align: center;
   background-color: gainsboro;
   max-width: 600px;
+  padding: 20px;
 }
 
 code {

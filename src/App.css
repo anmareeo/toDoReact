@@ -1,12 +1,12 @@
 
-.Container { 
+/* .Container { 
  max-width: 400px;
  border: black solid; 
-}
+} */
 
 .List { 
   min-width: 380px;
-    padding:20px;
+    margin:20px;
     
  }
 .App {
